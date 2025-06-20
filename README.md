@@ -78,7 +78,7 @@ A live **Streamlit dashboard** presents these insights interactively.
 ![Raw Data View](![Image](https://github.com/user-attachments/assets/defdc249-ba90-4607-a06a-ae544dbcda8c))
 
 ### Cluster Analysis Results
-![Cluster Assignments](assets/cluster-assignments.png)
+![Cluster Assignments](![Image](https://github.com/user-attachments/assets/11617442-5ef9-4ac4-add9-f9a9c93970d1))
 
 ---
 

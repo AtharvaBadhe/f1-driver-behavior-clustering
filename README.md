@@ -72,7 +72,7 @@ A live **Streamlit dashboard** presents these insights interactively.
 ## 📸 Demo Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](assets/dashboard-overview.png)
+![Dashboard Overview]([assets/dashboard-overview.png](https://private-user-images.githubusercontent.com/151429414/457443092-f4eb60ea-4a3a-4cc9-ac36-2a6854a0974e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA0Mzc4NjMsIm5iZiI6MTc1MDQzNzU2MywicGF0aCI6Ii8xNTE0Mjk0MTQvNDU3NDQzMDkyLWY0ZWI2MGVhLTRhM2EtNGNjOS1hYzM2LTJhNjg1NGEwOTc0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyMFQxNjM5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjg2NjQxYjVhYmUyNjM0NjllNzcwMjU3ODdkYzUzMDEwYjI0ZDEwNTkxOTNhYTE5NTZjNjlmN2FhNTk4ZTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xWPPZjA5RSN8ie7jPgExKlVEtN8rEBLjI-GOoe9R5BM))
 
 ### Raw Telemetry Data
 ![Raw Data View](assets/raw-telemetry-data.png)

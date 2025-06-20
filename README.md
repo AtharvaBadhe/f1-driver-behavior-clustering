@@ -81,3 +81,15 @@ pip install -r requirements.txt
 
 # Launch Streamlit app
 streamlit run app.py
+
+```
+## 👨‍💻 Author
+
+**Atharva Badhe**
+- GitHub: [@your-github-username]((https://github.com/AtharvaBadhe))
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/atharva-badhe/))
+- Email: atharva.r.badhe@gmail.com
+
+---
+
+Made by Atharva Badhe

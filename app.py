@@ -266,7 +266,7 @@ else:
 
 # Telemetry Visualization
 with st.expander("📊 View Raw Telemetry Snapshot (Optional)"):
-    st.markdown("Explore raw telemetry data from Phase 1 for selected drivers and races, showing Speed, Throttle, and Brake over Distance.")
+    st.markdown("Explore raw telemetry data from Phase 1 for selected drivers and races, showing Speed and Throttle")
     if not telemetry_data.empty:
         filtered_telemetry = telemetry_data[
             telemetry_data['Driver'].isin(list(drivers)) & 
@@ -281,7 +281,7 @@ with st.expander("📊 View Raw Telemetry Snapshot (Optional)"):
                     ]
                     if not driver_race_data.empty:
                         fig = go.Figure()
-                        for metric in ['Speed', 'Throttle', 'Brake']:
+                        for metric in ['Speed', 'Throttle']:
                             if metric in driver_race_data.columns:
                                 fig.add_trace(go.Scatter(
                                     x=driver_race_data['Distance'],
@@ -301,7 +301,7 @@ with st.expander("📊 View Raw Telemetry Snapshot (Optional)"):
                         st.warning(f"No telemetry data for {driver} at {race}.")
             # Display sample telemetry data
             st.subheader("Sample Telemetry Data")
-            display_cols = ['Driver', 'Race', 'LapNumber', 'Distance', 'Speed', 'Throttle', 'Brake']
+            display_cols = ['Driver', 'Race', 'LapNumber', 'Distance', 'Speed', 'Throttle']
             st.dataframe(filtered_telemetry[display_cols])
         else:
             st.warning("No telemetry data matches the selected filters.")

@@ -1,0 +1,10 @@
+Race,Driver,LapNumber,Cluster,Cluster_Name
+Monaco,ALO,43.0,1,Aggressive Brakers
+Monaco,LEC,46.0,1,Aggressive Brakers
+Monaco,VER,23.0,1,Aggressive Brakers
+Monza,ALO,43.0,0,Smooth Exits
+Monza,LEC,38.0,0,Smooth Exits
+Monza,VER,33.0,0,Smooth Exits
+Silverstone,ALO,48.0,0,Smooth Exits
+Silverstone,LEC,48.0,0,Smooth Exits
+Silverstone,VER,42.0,0,Smooth Exits

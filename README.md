@@ -69,6 +69,19 @@ A live **Streamlit dashboard** presents these insights interactively.
 
 ---
 
+## 📸 Demo Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](assets/dashboard-overview.png)
+
+### Raw Telemetry Data
+![Raw Data View](assets/raw-telemetry-data.png)
+
+### Cluster Analysis Results
+![Cluster Assignments](assets/cluster-assignments.png)
+
+---
+
 ## 🛠️ How to Run Locally
 
 ```bash

@@ -72,13 +72,13 @@ A live **Streamlit dashboard** presents these insights interactively.
 ## 📸 Demo Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](![Image](https://github.com/user-attachments/assets/f4eb60ea-4a3a-4cc9-ac36-2a6854a0974e)
+![Image](https://github.com/user-attachments/assets/f4eb60ea-4a3a-4cc9-ac36-2a6854a0974e)
 
 ### Raw Telemetry Data
-![Raw Data View](![Image](https://github.com/user-attachments/assets/defdc249-ba90-4607-a06a-ae544dbcda8c)
+![Image](https://github.com/user-attachments/assets/defdc249-ba90-4607-a06a-ae544dbcda8c)
 
 ### Cluster Analysis Results
-![Cluster Assignments](![Image](https://github.com/user-attachments/assets/11617442-5ef9-4ac4-add9-f9a9c93970d1)
+![Image](https://github.com/user-attachments/assets/11617442-5ef9-4ac4-add9-f9a9c93970d1)
 
 ---
 

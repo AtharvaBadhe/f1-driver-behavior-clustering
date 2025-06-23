@@ -2,7 +2,6 @@
 
 [![Streamlit App](https://img.shields.io/badge/Live-Dashboard-0099ff?logo=streamlit)](https://f1-driver-behavior-clustering-vjf8dmpwzoheuk4dwpm5hl.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🚀 Overview
 
